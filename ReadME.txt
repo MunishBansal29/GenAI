@@ -8,7 +8,7 @@ GenAI
  
 
 - Curse of dimensionality 
-- 
+- conversational buffer memory langchain
 
 
 
